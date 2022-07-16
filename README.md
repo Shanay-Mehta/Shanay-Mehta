@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shanay-Mehta
-- 👀 I’m interested in Web Dev💻
+- 👀 I’m interested in Web Development💻
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
