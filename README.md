@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shanay-Mehta
+- 👋 Hi, I’m Shanay!
 <!---
 Shanay-Mehta/Shanay-Mehta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
